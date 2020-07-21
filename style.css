@@ -7,6 +7,13 @@ body {
     background-color: dimgray;
 }
 
+img {
+    height: "200px";
+    width: "160px";
+    float: left;
+    
+}
+
 h1 {
     margin-bottom: 15px;
     font-size: 45px;
@@ -43,9 +50,6 @@ p {
     font-size: 20px;
     font-weight: normal;
     margin-left: 25%;
-    border-style: solid;
-    border-width: 5px;
-    border-color: firebrick;
 }
 
 ul {
@@ -67,8 +71,4 @@ ul {
 
 .marginleft {
     margin-left: 60%;
-    border-style: solid;
-    border-width: 5px;
-    border-color: firebrick;
-    float: right;
 }
